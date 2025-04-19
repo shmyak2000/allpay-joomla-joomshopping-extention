@@ -4,6 +4,8 @@ This is the **Allpay** payment plugin for the **JoomShopping** component (Joomla
 
 ## 📦 Installation
 
+1. Download and unpack the latest `.zip` release of the plugin from [Releases](https://github.com/shmyak2000/allpay-joomla-joomshopping-extention/releases).
+
 1. Copy the plugin folder `pm_allpay` into the following directory:
 
 /components/com_jshopping/payments/
